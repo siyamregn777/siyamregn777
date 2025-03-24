@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siyamregn Yeshidagna</h1>
-<h3 align="center">A passionate "Full-Stack Developer" who loves building robust web application that solve real-world problems. With a solid foundation in both frontend and backend development, I enjoy creating seamless user experiences and efficient server-side solutions.</h3>
+<h3 align="center">A passionate "Full-Stack Developer" who loves building robust web applications that solve real-world problems. With a solid foundation in both frontend and backend development, I enjoy creating seamless user experiences and efficient server-side solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siyamregn777&label=Profile%20views&color=0e75b6&style=flat" alt="siyamregn777" /> </p>
 
