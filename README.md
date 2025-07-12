@@ -63,7 +63,6 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siyamregn777&show_icons=true&locale=en&layout=compact" alt="siyamregn777" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siyamregn777&show_icons=true&locale=en" alt="siyamregn777" /></p>
 
