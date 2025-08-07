@@ -153,8 +153,7 @@ const debugLikeABoss = (problem) => {
 
 <div align="center">
   
-[![Spotify](https://spotify-readme-xi.vercel.app/api/spotify?background_color=0D1117&border_color=00D1FF)](https://open.spotify.com/user/yourusername)
-
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/YOUR_REAL_USERNAME)
 </div>
 ```
 
