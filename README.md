@@ -67,6 +67,13 @@ I'm currently available for freelance projects or full-time opportunities. If yo
 - Technical consultation for your next big idea
 
 📫 Reach me at: **yeshidagnasiyamregn@gmail.com**
+💡 Fun Facts
+    🕹️ I treat debugging like a game
+    
+    ⚙️ I love clean code more than coffee
+    
+    🌱 I never stop learning. My current obsession: NestJS best practices
+
 
 <p align="center">
   <a href="https://linkedin.com/in/www.linkedin.com/in/siyamregn-yeshidagna-08a4b62b3" target="blank">
