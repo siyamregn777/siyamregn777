@@ -131,12 +131,9 @@ const debugLikeABoss = (problem) => {
 
 ## 🌌 **3D Code Galaxy**
 
-<div align="center">
   
 <div align="center">
   <img src="https://raw.githubusercontent.com/siyamregn777/siyamregn777/output/github-contribution-grid-snake.svg" alt="3D Coding Sphere" width="100%">
-</div>
-
 </div>
 
 ---
@@ -191,5 +188,3 @@ const debugLikeABoss = (problem) => {
 8. **Professional Contact Buttons** - Direct links with tracking
 9. **Consistent Dark Theme** - Cohesive color scheme throughout
 10. **Mobile Responsive** - Looks great on all devices
-
-This version will make your profile stand out dramatically while ensuring all elements work perfectly!
