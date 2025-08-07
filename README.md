@@ -133,12 +133,9 @@ const debugLikeABoss = (problem) => {
 
 <div align="center">
   
-```html
-<!-- Add this to your profile -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/siyamregn777/siyamregn777/output/github-contribution-grid-snake.svg" alt="3D Coding Sphere" width="100%">
 </div>
-```
 
 </div>
 
