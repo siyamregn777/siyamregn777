@@ -73,6 +73,9 @@
 
 ![Battle Stats](https://github-readme-streak-stats.herokuapp.com/?user=siyamregn777&theme=holi-theme&hide_border=true&background=0D1117&stroke=00D1FF&ring=00FFD1&fire=FF00D1&currStreakLabel=00FFD1)
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siyamregn777&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+</p>
 </div>
 
 ---
@@ -125,9 +128,7 @@ while (bug.exists()) {
 
 ## � **3D Coding Sphere**
 
-<div align="center">
-  <img src="https://github.com/siyamregn777/siyamregn777/blob/main/images/3d-coding-sphere.gif" width="300" alt="3D Coding Sphere">
-</div>
+<div align="center"> <img src="https://github.com/siyamregn777/siyamregn777/blob/main/images/3d-coding-sphere.gif" width="300" alt="3D Coding Sphere"> </div>
 
 ---
 
