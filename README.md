@@ -178,4 +178,3 @@ while (bug.exists()) {
 4. For Spotify integration:
    - Use https://github.com/kittinan/spotify-github-profile
 
-This design will make your profile **stand out from 99% of developers** and immediately grab attention from potential clients!
