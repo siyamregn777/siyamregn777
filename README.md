@@ -1,73 +1,75 @@
 <h1 align="center">Hi 👋, I'm Siyamregn Yeshidagna</h1>
-<h3 align="center">A passionate "Full-Stack Developer" who loves building robust web applications that solve real-world problems. With a solid foundation in both frontend and backend development, I enjoy creating seamless user experiences and efficient server side solutions. </h3>
+<h3 align="center">Junior Full Stack Developer | React • Next.js • NestJS • MongoDB</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siyamregn777&label=Profile%20views&color=0e75b6&style=flat" alt="siyamregn777" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siyamregn777" alt="siyamregn777" /></a> </p>
+🌍 **Location:** Addis Ababa, Ethiopia  
+💼 **Available for:** Full-time remote opportunities (40h/week, long-term preferred)  
+📬 **Email:** siyamregnyeshiddagna777@gmail.com  
+🔗 **Portfolio:** [Coming Soon]  
+📞 **Phone:** +251961177953  
 
-- 💬 Ask me about **Building full-stack web applications**
+---
 
-- 📫 How to reach me **yeshidagnasiyamregn@gmail.com**
+### 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/siyamregn-yeshidagna-08a4b62b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/siyamregn-yeshidagna-08a4b62b3" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/siyamregnyeshidagna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/siyamregnyeshidagna/" height="30" width="40" /></a>
+I'm a highly motivated full-stack developer focused on building clean, responsive, and scalable web applications. I specialize in modern JavaScript frameworks with real-world experience in React, Next.js, and backend tools like NestJS and MongoDB.
+
+I enjoy solving real problems through code, writing modular components, and shipping projects that actually work. I’m also a strong believer in continuous learning and long-term commitments.
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend:**  
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) 
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)  
+**Backend:**  
+![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs) 
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)  
+**Database:**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  
+**Other:**  
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) 
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)  
+
+---
+
+### 📌 Pinned Projects
+
+Here are a few highlights from my GitHub repositories:
+
+🔹 [**Hotel Booking App**](https://github.com/siyamregn777/Hotel)  
+> Full-stack hotel booking system using React and MongoDB. Handles room listing, booking, and user authentication.
+
+🔹 [**E-Commerce Store**](https://github.com/siyamregn777/E-Commerce-Store)  
+> Frontend-heavy e-commerce web app using React and Redux. Product pages, cart logic, and mock payment integration.
+
+🔹 [**Brawaves (Freelance project)**](https://github.com/siyamregn777/brawaves)  
+> A visually polished landing page and blog interface built with Next.js and Tailwind CSS.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siyamregn777&show_icons=true&theme=radical" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=siyamregn777&theme=radical&hide_border=false" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a> 
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a> 
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-  <img src="https://nestjs.com/img/logo-small.svg" alt="nestjs" width="40" height="40"/>
-</a>
+---
 
-</p>
+### 🤝 Let's Connect
 
+I'm always open to interesting projects, freelance work, and full-time remote opportunities.
 
+- 📧 siyamregnyeshiddagna777@gmail.com
+- 🌐 [GitHub](https://github.com/siyamregn777)
+- 🐦 [LinkedIn (coming soon)]
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siyamregn777&show_icons=true&locale=en" alt="siyamregn777" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siyamregn777&" alt="siyamregn777" /></p>
+*“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+
