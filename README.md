@@ -1,109 +1,78 @@
-Of course! Here's the **full, copy-paste-ready GitHub profile README** you can use directly:
-
----
-
-````markdown
-<h1 align="center">Hey 👋, I'm Siyamregn Yeshidagna</h1>
-<h3 align="center">🚀 Full Stack Developer • React | Next.js | NestJS | MongoDB</h3>
-<p align="center">💻 Building fast, pixel-perfect, production-ready web apps</p>
-
----
-
-### 🙋‍♂️ About Me
-
-```js
-const siyamregn = {
-  code: ['JavaScript', 'TypeScript', 'Python'],
-  tools: ['React', 'Next.js', 'NestJS', 'MongoDB', 'Tailwind CSS'],
-  currentlyLearning: ['Advanced NestJS', 'AWS'],
-  hobbies: ['Refactoring code', 'Debugging deeply', 'Helping other devs grow'],
-  lookingFor: 'Long-term full-time remote work (40h/week)',
-}
-````
-
-🎯 Focused on delivering clean UI, solid backend logic & performance
-🧠 Loves learning new tech and solving tough bugs
-🌍 Based in Addis Ababa, working remotely worldwide
-📧 [siyamregnyeshiddagna777@gmail.com](mailto:siyamregnyeshiddagna777@gmail.com)
-
----
-
-### 🧰 Tech Stack & Tools
-
-![React](https://img.shields.io/badge/-React-000?\&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000?\&logo=next.js)
-![NestJS](https://img.shields.io/badge/-NestJS-000?\&logo=nestjs)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?\&logo=mongodb)
-![Node.js](https://img.shields.io/badge/-Node.js-000?\&logo=node.js)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000?\&logo=tailwind-css)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?\&logo=typescript)
-![Git](https://img.shields.io/badge/-Git-000?\&logo=git)
-![VS Code](https://img.shields.io/badge/-VS_Code-000?\&logo=visual-studio-code)
-
----
-
-### 🔥 Featured Projects
-
-💼 [**Hotel Booking Platform**](https://github.com/siyamregn777/Hotel)
-
-> A full-featured hotel booking app with real-time availability, auth, and admin tools.
-> `React` • `MongoDB` • `Express` • `Tailwind`
-> **Highlights**: Room filters, booking history, and mobile responsiveness
-
-🛍️ [**E-Commerce Store**](https://github.com/siyamregn777/E-Commerce-Store)
-
-> A sleek modern e-store with cart, checkout, and clean product listings.
-> `React` • `Redux` • `CSS Modules`
-> **Highlights**: Global state management, reusable components
-
-🌐 [**Brawaves Site**](https://github.com/siyamregn777/brawaves)
-
-> Landing page + blog template for a creative business.
-> `Next.js` • `Tailwind CSS`
-> **Highlights**: Pixel-perfect layout, SEO‑friendly design
-
----
-
-### 📊 GitHub Stats
+<h1 align="center">🚀 Siyamregn Yeshidagna</h1>
+<h3 align="center">Full-Stack Developer | Problem Solver | Clean Code Advocate</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siyamregn777&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=siyamregn777&theme=tokyonight" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C3F7&center=true&vCenter=true&width=435&lines=I+build+scalable+web+solutions;Full-stack+developer;Clean+code+enthusiast;Always+learning+new+tech" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=siyamregn777&label=Profile+Views&color=blue&style=flat" alt="siyamregn777" /> 
+  <a href="https://github.com/siyamregn777?tab=followers"><img src="https://img.shields.io/github/followers/siyamregn777?label=Followers&style=social" alt="GitHub Followers"></a>
 </p>
 
 ---
 
-### 💡 Fun Facts
+### 🔥 What I Bring to Your Project
 
-* 🕹️ I treat debugging like a game
-* ⚙️ I love clean code more than coffee
-* 🌱 I never stop learning. My current obsession: `NestJS best practices`
-* 🧩 I once optimized a UI so well, my mentor asked: “How did you do that?”
-
----
-
-### 📬 Let’s Connect!
-
-* 🌍 Addis Ababa, Ethiopia (Working Remotely)
-* 📧 [siyamregnyeshiddagna777@gmail.com](mailto:siyamregnyeshiddagna777@gmail.com)
-* 🔗 [GitHub](https://github.com/siyamregn777)
-
-> “First solve the problem. Then, write the code.” — John Johnson
+- **End-to-End Solutions**: From UI/UX to database design and API development
+- **Performance Focus**: Optimized applications that deliver speed and reliability
+- **Clean Architecture**: Maintainable codebases with proper separation of concerns
+- **Problem-Solving Mindset**: Breaking down complex requirements into actionable solutions
 
 ---
 
-```
+### 🛠 Tech Stack
+
+#### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-### ✅ Where to Put This
+### 📈 GitHub Stats
 
-1. Go to [https://github.com/siyamregn777](https://github.com/siyamregn777)
-2. Create a **new repository** named exactly: `siyamregn777`
-3. Add a `README.md` file
-4. Paste the full markdown content above
-5. Commit → Done!
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=siyamregn777&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=siyamregn777&theme=radical" />
+</p>
 
-Let me know if you want me to design a matching banner image for the top of your profile.
-```
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siyamregn777&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+### 💼 Let's Work Together
+
+I'm currently available for freelance projects or full-time opportunities. If you need:
+
+- A complete web application built from scratch
+- An existing project reviewed or refactored
+- Technical consultation for your next big idea
+
+📫 Reach me at: **yeshidagnasiyamregn@gmail.com**
+
+<p align="center">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/siyamregn-yeshidagna-08a4b62b3" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/https://www.instagram.com/siyamregnyeshidagna/" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
