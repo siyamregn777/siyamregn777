@@ -96,10 +96,9 @@ pie showData
 
 ---
 
-
 ## 🎮 **Debugging Arena**
 
-
+```javascript
 const debugLikeABoss = (problem) => {
   const solutions = [];
   
@@ -116,6 +115,7 @@ const debugLikeABoss = (problem) => {
   
   return "🏆 High score achieved!";
 }
+```
 <div align="center">
   
 | Debugging Gamer | Clean Code Addict | Learning Enthusiast |
