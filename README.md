@@ -46,7 +46,9 @@ pie showData
     "Backend" : 15
     "DevOps" : 15
 ```
-  
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 </div>
 
 <div align="center">
@@ -200,4 +202,6 @@ const debugLikeABoss = (problem) => {
     
     🧩 I once optimized a UI so well, my mentor asked: “How did you do that?”
 <div align="center">
-  
+  <div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
