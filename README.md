@@ -25,7 +25,7 @@
 | **Next.js Mastery** | **Debugging Wizardry** | **Performance Sorcery** |
 |---------------------|------------------------|-------------------------|
 | ![Next.js GIF](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif) | ![Debug GIF](https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif) | ![Speed GIF](https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif) |
-| SSR/SSG/ISR Expert | Squashing bugs like a pro | Optimizing for 100/100 scores |
+| SSR/SSG/ISR Expert | Squashing bugs like a pro | high Optimizing scores |
 | App Router Pro | Problem-solving ninja | Lighthouse optimization |
 | Edge Runtime | Algorithm master | Bundle size reduction |
 
