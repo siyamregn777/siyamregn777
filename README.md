@@ -94,10 +94,11 @@ pie showData
 </div>
 
 ## 🏆 Development Achievements
+## 🏆 Golden Trophy Case
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=Daniyeshi&theme=onedark&row=2&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true&title=Commits,PRs,Issues,Repos,Stars,Followers&rank=SSS,SS,S,AAA,AA,A,B,C)]
+[![trophy](https://github-profile-trophy.vercel.app/?username=Daniyeshi&theme=onedark&row=2&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true&title=Commits,PullRequests,Repositories,Issues,Stars)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 <div align="center">
