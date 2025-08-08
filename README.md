@@ -172,32 +172,15 @@ const debugLikeABoss = (problem) => {
   </a>
 </div>
 
+
 💡 Fun Facts
-🕹️ I treat debugging like a game
-
-⚙️ I love clean code more than coffee
-
-🌱 I never stop learning. My current obsession: NestJS best practices
-
-🧩 I once optimized a UI so well, my mentor asked: “How did you do that?”
+    
+    🕹️ I treat debugging like a game
+    
+    ⚙️ I love clean code more than coffee
+    
+    🌱 I never stop learning. My current obsession: NestJS best practices
+    
+    🧩 I once optimized a UI so well, my mentor asked: “How did you do that?”
 <div align="center">
   
-```javascript
-const funFacts = {
-  codeHabits: [
-    "Write commit messages in haiku",
-    "Test in production (just kidding!)",
-    "Have 237 open Chrome tabs...for research"
-  ],
-  techConfessions: [
-    "Prefer dark mode even during daytime",
-    "Still use console.log() sometimes",
-    "Have a crush on VS Code"
-  ],
-  superpowers: [
-    "Can detect 1px alignment issues from 10ft away",
-    "Understand legacy code without comments",
-    "Fix bugs by glaring at the screen"
-  ]
-};
-```
