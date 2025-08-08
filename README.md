@@ -8,9 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://siyamregnyeshidagna-mvxy.vercel.app/" target="_blank">
-    🌐 <strong>View My Portfolio</strong> (opens in new tab)
-  </a>
+  [![Portfolio](https://img.shields.io/badge/🚀_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://siyamregnyeshidagna-mvxy.vercel.app/){:target="_blank"}
 </p>
 
 <p align="center">
