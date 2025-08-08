@@ -51,26 +51,6 @@ pie showData
 
 ---
 
-## 🛠 **Tech Arsenal**
-
-<div align="center">
-  
-### **Frontend Constellation**
-<div>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,graphql,redux,vercel&theme=dark&perline=7">
-</div>
-
-### **Backend Nebula**
-<div>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,prisma,postgres,mongodb&theme=dark&perline=7">
-</div>
-
-### **DevOps Universe**
-<div>
-  <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,vercel,supabase,firebase&theme=dark&perline=6">
-</div>
-
-</div>
 
 ---
 ## ⚔️ **Tech Weaponry**
@@ -79,22 +59,22 @@ pie showData
   
 ### **Frontend Arsenal**
 <div>
-  <img src="https://skillicons.dev/icons?i=react,vue,typescript,tailwind,nextjs,redux,graphql&theme=dark&perline=7">
+  <img src="https://skillicons.dev/icons?i=react,vue,typescript,tailwind,nextjs,redux&theme=dark&perline=7">
 </div>
 
 ### **Backend Armory**
 <div>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,django,express,flask,graphql&theme=dark&perline=7">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,django,express,flask&theme=dark&perline=7">
 </div>
 
 ### **Database Fortress**
 <div>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase,prisma&theme=dark&perline=6">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase&theme=dark&perline=6">
 </div>
 
 ### **DevOps & Tools**
 <div>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,git,github,githubactions&theme=dark&perline=7">
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,github,githubactions&theme=dark&perline=7">
 </div>
 
 </div>
@@ -115,7 +95,42 @@ pie showData
 </div>
 
 ---
+## 📊 **GitHub Battle Stats**
 
+<div align="center">
+  
+<!-- Stats Grid -->
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=siyamregn777&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D1FF&icon_color=00FFD1&text_color=FFFFFF" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=siyamregn777&theme=holi-theme&hide_border=true&background=0D1117&stroke=00D1FF&ring=00FFD1&fire=FF00D1&currStreakLabel=00FFD1" />
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siyamregn777&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D1FF&line=00FFD1&point=FF00D1" alt="GitHub Activity Graph" width="90%"/>
+</p>
+
+</div>
+
+## 🎮 **Debugging Arena**
+
+
+const debugLikeABoss = (problem) => {
+  const solutions = [];
+  
+  while (!problem.isSolved()) {
+    const solution = analyze(problem);
+    solutions.push(solution);
+    problem.apply(solution);
+    
+    if (problem.isSolved()) {
+      celebrate();
+      return "✅ Bug squashed!";
+    }
+  }
+  
+  return "🏆 High score achieved!";
+}
 ## 🎨 **Code Canvas**
 
 <div align="center">
