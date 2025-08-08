@@ -51,8 +51,6 @@ pie showData
 
 ---
 
-
----
 ## ⚔️ **Tech Weaponry**
 
 <div align="center">
@@ -117,12 +115,13 @@ const debugLikeABoss = (problem) => {
 }
 ```
 <div align="center">
-  
-| Clean Code Addict | Learning Enthusiast |
-|---------------------|-----------------------|-------------------------|
-|  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"> | <img src="https://media.giphy.com/media/l0HU20BZ6LbSEITza/giphy.gif" width="200"> |
-| Beautiful code is my caffeine | Currently mastering NextJS |
-|  Refactoring is my therapy | Always exploring new tech |
+
+| **Clean Code Addict** | **Learning Enthusiast** |
+|-----------------------|-------------------------|
+| <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"> | <img src="https://media.giphy.com/media/l0HU20BZ6LbSEITza/giphy.gif" width="200"> |
+| Beautiful code is my caffeine | Currently mastering Next.js |
+| Refactoring is my therapy | Always exploring new tech |
+| TypeScript evangelist | Currently learning: Rust |
 
 </div>
 
