@@ -112,8 +112,8 @@ const debugLikeABoss = (problem) => {
 | **Debugging Gamer** | **Clean Code Addict** | **Learning Enthusiast** |
 |---------------------|-----------------------|-------------------------|
 | <img src="https://media.giphy.com/media/l0HU7JI1nzJC7mXKU/giphy.gif" width="200"> | <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"> | <img src="https://media.giphy.com/media/l0HU20BZ6LbSEITza/giphy.gif" width="200"> |
-| Every bug is a level to conquer | Beautiful code is my caffeine | Currently mastering NestJS |
-| High score: 1000+ bugs fixed | Refactoring is my therapy | Always exploring new tech |
+| Every bug is a level to conquer | Beautiful code is my caffeine | Currently mastering NextJS |
+| High score: Many bugs fixed | Refactoring is my therapy | Always exploring new tech |
 
 </div>
 
