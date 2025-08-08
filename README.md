@@ -62,35 +62,31 @@ pie showData
 
 ## ⚔️ **Tech Weaponry**
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: nowrap; gap: 1rem; overflow-x: auto; padding: 1rem 0;">
+<div align="center" style="display: flex; justify-content: space-evenly; flex-wrap: wrap; gap: 2rem; margin: 1.5rem 0; flex-direction: row;">
 
-<span title="Frontend">
-  <img src="https://skillicons.dev/icons?i=react,vue,typescript,tailwind,nextjs,redux&theme=dark">
-</span>
-•
-<span title="Backend">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,django,express,flask&theme=dark">
-</span>
-•
-<span title="Database">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase&theme=dark">
-</span>
-•
-<span title="DevOps">
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,githubactions&theme=dark">
-</span>
-
-</div>
-
-<div style="display: flex; flex-direction: column; align-items: center; gap: 0.5rem;">
-  <h4>DevOps</h4>
-  <div style="display: flex; gap: 0.5rem;">
-    <img src="https://skillicons.dev/icons?i=docker,aws,git,github,githubactions&theme=dark">
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 0.5rem;">
+    <h4>Frontend</h4>
+    <div style="display: flex; gap: 0.5rem;">
+      <img src="https://skillicons.dev/icons?i=react,vue,typescript,tailwind,nextjs,redux&theme=dark">
+    </div>
   </div>
-</div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 0.5rem;">
+    <h4>Backend</h4>
+    <div style="display: flex; gap: 0.5rem;">
+      <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,django,express,flask&theme=dark">
+    </div>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 0.5rem;">
+    <h4>Database</h4>
+    <div style="display: flex; gap: 0.5rem;">
+      <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase&theme=dark">
+    </div>
+  </div>
 
 </div>
-</div>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
