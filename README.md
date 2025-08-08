@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  I’m a <strong>Full-Stack Developer</strong> who loves building robust, user-friendly web applications that solve real-world problems.  
-  With a bachelor’s degree in <span style="color:red">Computer Engineering</span>, I have a solid foundation in both frontend and backend development.
+  I’m a <strong>Full-Stack Developer</strong> who loves building robust, user-friendly web applications that solve real-world problems.<br>
+  With a bachelor’s degree in <a href="#"><img src="https://img.shields.io/badge/Computer_Engineering-FF0000?style=flat&logoColor=white" alt="Computer Engineering"></a>, I have a solid foundation in both frontend and backend development.
 </p>
 
 
