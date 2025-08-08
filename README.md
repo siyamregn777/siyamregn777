@@ -166,32 +166,5 @@ const debugLikeABoss = (problem) => {
 </a>
 </div>
 
-### 🛠 **Setup Instructions:**
 
-1. **For the 3D Code Galaxy**: 
-   - Add a file named `github-contribution-grid-snake.svg` to your repo
-   - Generate one from: https://github.com/Platane/snk
 
-2. **For Spotify Integration**:
-   - Replace `yourusername` with your actual Spotify username
-   - Or use: https://github.com/kittinan/spotify-github-profile
-
-3. **For Code Wave**:
-   - Add a file named `code-wave.svg` to your repo's assets folder
-   - You can create one at: https://www.svgwave.com/
-
-4. **For Golden Trophies**:
-   - The link is already working but you can customize colors by editing the URL params
-
-### 💎 **Premium Features Added:**
-
-1. **Interactive Skill Icons** - Using skillicons.dev for modern tech badges
-2. **3D Code Snake** - Animated GitHub contribution snake
-3. **Golden Trophy Case** - Enhanced with golden accents
-4. **Tech Superpowers Grid** - Visual representation of your strengths
-5. **Coding Soundtrack** - Spotify integration showing your current jam
-6. **Battle-Ready Stats** - Fully customized GitHub stats cards
-7. **Developer DNA Matrix** - Organized presentation of your fun facts
-8. **Professional Contact Buttons** - Direct links with tracking
-9. **Consistent Dark Theme** - Cohesive color scheme throughout
-10. **Mobile Responsive** - Looks great on all devices
