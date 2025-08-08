@@ -62,28 +62,37 @@ pie showData
 
 ## ⚔️ **Tech Weaponry**
 
-<div align="center" style="display: flex; flex-direction: column; gap: 1.5rem;">
+<div align="center" style="display: flex; justify-content: space-evenly; flex-wrap: wrap; gap: 1.5rem; margin: 1.5rem 0;">
 
-### **Frontend Arsenal**
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 0.5rem;">
-  <img src="https://skillicons.dev/icons?i=react,vue,typescript,tailwind,nextjs,redux&theme=dark">
+<div style="display: flex; flex-direction: column; align-items: center; gap: 0.5rem;">
+  <h4>Frontend</h4>
+  <div style="display: flex; gap: 0.5rem;">
+    <img src="https://skillicons.dev/icons?i=react,vue,typescript,tailwind,nextjs,redux&theme=dark">
+  </div>
 </div>
 
-### **Backend Armory**
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 0.5rem;">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,django,express,flask&theme=dark">
+<div style="display: flex; flex-direction: column; align-items: center; gap: 0.5rem;">
+  <h4>Backend</h4>
+  <div style="display: flex; gap: 0.5rem;">
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,django,express,flask&theme=dark">
+  </div>
 </div>
 
-### **Database Fortress**
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 0.5rem;">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase&theme=dark">
+<div style="display: flex; flex-direction: column; align-items: center; gap: 0.5rem;">
+  <h4>Database</h4>
+  <div style="display: flex; gap: 0.5rem;">
+    <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase&theme=dark">
+  </div>
 </div>
 
-### **DevOps & Tools**
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 0.5rem;">
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,githubactions&theme=dark">
+<div style="display: flex; flex-direction: column; align-items: center; gap: 0.5rem;">
+  <h4>DevOps</h4>
+  <div style="display: flex; gap: 0.5rem;">
+    <img src="https://skillicons.dev/icons?i=docker,aws,git,github,githubactions&theme=dark">
+  </div>
 </div>
 
+</div>
 </div>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
