@@ -95,9 +95,9 @@ pie showData
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=siyamregn777&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D1FF&icon_color=00FFD1&text_color=FFFFFF" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=siyamregn777&theme=holi-theme&hide_border=true&background=0D1117&stroke=00D1FF&ring=00FFD1&fire=FF00D1&currStreakLabel=00FFD1" />
 </div>
-<div>
+<!-- <div>
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=siyamregn777&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D1FF&line=00FFD1&point=FF00D1&random=1" width="90%"/>
-</div>
+</div> -->
 
 
 <div align="center">
