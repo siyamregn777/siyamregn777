@@ -95,22 +95,7 @@ pie showData
 </div>
 
 ---
-## 📊 **GitHub Battle Stats**
 
-<div align="center">
-  
-<!-- Stats Grid -->
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=siyamregn777&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D1FF&icon_color=00FFD1&text_color=FFFFFF" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=siyamregn777&theme=holi-theme&hide_border=true&background=0D1117&stroke=00D1FF&ring=00FFD1&fire=FF00D1&currStreakLabel=00FFD1" />
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siyamregn777&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D1FF&line=00FFD1&point=FF00D1" alt="GitHub Activity Graph" width="90%"/>
-</p>
-
-</div>
 
 ## 🎮 **Debugging Arena**
 
@@ -131,6 +116,17 @@ const debugLikeABoss = (problem) => {
   
   return "🏆 High score achieved!";
 }
+<div align="center">
+  
+| Debugging Gamer | Clean Code Addict | Learning Enthusiast |
+|---------------------|-----------------------|-------------------------|
+| <img src="https://media.giphy.com/media/l0HU7JI1nzJC7mXKU/giphy.gif" width="200"> | <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"> | <img src="https://media.giphy.com/media/l0HU20BZ6LbSEITza/giphy.gif" width="200"> |
+| Every bug is a level to conquer | Beautiful code is my caffeine | Currently mastering NextJS |
+| High score: Many bugs fixed | Refactoring is my therapy | Always exploring new tech |
+
+</div>
+
+
 ## 🎨 **Code Canvas**
 
 <div align="center">
@@ -140,21 +136,46 @@ const debugLikeABoss = (problem) => {
 </div>
 
 ---
+## 🌌 3D Code Galaxy
+
+![Snake animation](https://raw.githubusercontent.com/siyamregn777/siyamregn777/output/github-contribution-grid-snake.svg)
+## 🚀 Let's Create Magic Together
+
 
 ## 🌐 **Connect With Me**
 
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 10px;">
+<<div align="center">
 
-[![Email](https://img.shields.io/badge/📧_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yeshidagnasiyamregn@gmail.com)
-[![Instagram](https://img.shields.io/badge/📷_INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/siyamregn3779){:target="_blank"}
-[![Discord](https://img.shields.io/badge/💬_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/siyamregn){:target="_blank"}
-[![Telegram](https://img.shields.io/badge/📨_TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/siyamregn1){:target="_blank"}
-[![WhatsApp](https://img.shields.io/badge/💚_WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+251942553335){:target="_blank"}
-[![Spotify](https://img.shields.io/badge/🎵_CODING_SOUNDTRACK-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31iowxfkkvbtczrtilhdxj64rzzy){:target="_blank"}
+<!-- Email (mailto links don't need target="_blank") -->
+[![Email](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yeshidagnasiyamregn@gmail.com)
+
+<!-- Other social links with target="_blank" -->
+<a href="https://instagram.com/siyamregn3779" target="_blank">
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+<a href="https://discordapp.com/users/siyamregn" target="_blank">
+  <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>
+
+<a href="https://t.me/siyamregn1" target="_blank">
+  <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+</a>
+
+<a href="https://wa.me/+251942553335" target="_blank">
+  <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
 
 </div>
-
 ---
+## 🎵 Coding Soundtrack
+
+<div align="center">
+  
+<a href="https://open.spotify.com/user/31iowxfkkvbtczrtilhdxj64rzzy" target="_blank">
+  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+</a>
+</div>
 
 <div align="center">
   
@@ -162,35 +183,3 @@ const debugLikeABoss = (problem) => {
 
 </div>
 ```
-
-### Key Improvements:
-
-1. **Next.js Focus**:
-   - Replaced Python with Next.js throughout
-   - Added Next.js specific superpowers
-   - Updated tech stack percentages
-   - Included Vercel in DevOps section
-
-2. **Working Footer**:
-   - Replaced broken footer with visitor counter badge
-   - Uses visitorbadge.io API for real-time tracking
-   - Matches your color scheme
-
-3. **Enhanced Visuals**:
-   - New Next.js specific GIF
-   - Cleaner tech stack organization
-   - Removed redundant database section (covered in backend)
-
-4. **Optimized Layout**:
-   - Better mobile responsiveness
-   - More balanced sections
-   - Consistent theming
-
-### How to Use:
-1. Copy this entire markdown
-2. Paste into your README.md
-3. The visitor badge will work automatically
-4. All links open in new tabs
-5. The snake animation updates automatically
-
-This version highlights your Next.js expertise while maintaining all the visual appeal of your original design!
