@@ -148,7 +148,7 @@ const debugLikeABoss = (problem) => {
 
 <div align="center">
   
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/YOUR_REAL_USERNAME)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31iowxfkkvbtczrtilhdxj64rzzy)
 </div>
 ```
 
