@@ -3,19 +3,19 @@
 </h1>
 
 <p align="center">
-  I’m a <strong>Full-Stack Developer</strong> who loves building robust, user-friendly web applications that solve real-world problems.<br>
-  With a bachelor’s degree in <a href="#"><img src="https://img.shields.io/badge/Computer_Engineering-FF0000?style=flat&logoColor=white" alt="Computer Engineering"></a>, I have a solid foundation in both frontend and backend development.
+  I'm a <strong>Full-Stack Developer</strong> who loves building robust, user-friendly web applications that solve real-world problems.<br>
+  With a bachelor's degree in <a href="#" target="_blank"><img src="https://img.shields.io/badge/Computer_Engineering-FF0000?style=flat&logoColor=white" alt="Computer Engineering"></a>, I have a solid foundation in both frontend and backend development.
 </p>
 
 <p align="center">
-  <a href="https://siyamregnyeshidagna-mvxy.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  <a href="https://siyamregnyeshidagna-mvxy.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🚀_View_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C3F7&center=true&vCenter=true&width=600&lines=I+transform+ideas+into+high-performance+apps;Specializing+in+scalable+web+solutions;Clean+code+fanatic+%7C+Debugging+ninja;Let's+build+something+amazing+together" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C3F7&center=true&vCenter=true&width=600&lines=I+transform+ideas+into+high-performance+apps;Specializing+in+scalable+web+solutions;Clean+code+fanatic+%7C+Debugging+ninja;Let's+build+something+amazing+together" alt="Typing SVG">
   </a>
 </p>
 
