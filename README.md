@@ -15,7 +15,7 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/siyamregn777/siyamregn777/main/assets/code-wave.svg" alt="Code Wave" width="100%">
+  <img src="https://github.com/siyamregn777/siyamregn777/blob/main/assets/wave.svg?raw=true" alt="Code Wave" width="100%">
 </div>
 
 ---
