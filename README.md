@@ -132,13 +132,27 @@ const debugLikeABoss = (problem) => {
 ![Snake animation](https://raw.githubusercontent.com/siyamregn777/siyamregn777/output/github-contribution-grid-snake.svg)
 ## 🚀 **Let's Create Magic Together**
 
-<div align="center">
+<<div align="center">
 
-[![Email](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yeshidagnasiyamregn@gmail.com){:target="_blank"}
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/siyamregn3779){:target="_blank"}  
-[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/siyamregn){:target="_blank"}
-[![Telegram](https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@siyamregn1){:target="_blank"}  
-[![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+251942553335){:target="_blank"}
+<!-- Email (mailto links don't need target="_blank") -->
+[![Email](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yeshidagnasiyamregn@gmail.com)
+
+<!-- Other social links with target="_blank" -->
+<a href="https://instagram.com/siyamregn3779" target="_blank">
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+<a href="https://discordapp.com/users/siyamregn" target="_blank">
+  <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>
+
+<a href="https://t.me/siyamregn1" target="_blank">
+  <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+</a>
+
+<a href="https://wa.me/+251942553335" target="_blank">
+  <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
 
 </div>
 
