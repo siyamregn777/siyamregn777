@@ -133,10 +133,12 @@ const debugLikeABoss = (problem) => {
 ## 🚀 **Let's Create Magic Together**
 
 <div align="center">
-  
-[![Email](https://img.shields.io/badge/-EMAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:yeshidagnasiyamregn@gmail.com)](mailto:yeshidagnasiyamregn@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-CONNECT_ON_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/siyamregn-yeshidagna)](https://linkedin.com/in/siyamregn-yeshidagna)
-[![Schedule](https://img.shields.io/badge/-SCHEDULE_CALL-00A2FF?style=for-the-badge&logo=google-meet&logoColor=white&link=https://calendly.com/siyamregn)](https://calendly.com/siyamregn)
+
+[![Email](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yeshidagnasiyamregn@gmail.com){:target="_blank"}
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/siyamregn3779){:target="_blank"}  
+[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/siyamregn){:target="_blank"}
+[![Telegram](https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@siyamregn1){:target="_blank"}  
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+251942553335){:target="_blank"}
 
 </div>
 
@@ -145,7 +147,9 @@ const debugLikeABoss = (problem) => {
 
 <div align="center">
   
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31iowxfkkvbtczrtilhdxj64rzzy){:target="_blank"}
+<a href="https://open.spotify.com/user/31iowxfkkvbtczrtilhdxj64rzzy" target="_blank">
+  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+</a>
 </div>
 
 ### 🛠 **Setup Instructions:**
