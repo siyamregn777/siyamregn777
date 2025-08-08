@@ -1,5 +1,6 @@
 <h1 align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&color=22F7A3&center=true&vCenter=true&width=500&height=80&lines=%F0%9F%9A%80+SIYAMREGN+YESHIDAGNA;FULL-STACK+DEV+%7C+TECH+ARTISAN" alt="Animated Typing Header" />
+  I’m a Full-Stack Developer who loves building robust, user-friendly web applications that solve real-world problems. With a bachelor’s degree in <h1 classNmame="text-red">Computer Engineering</h1>, I have a solid foundation in both frontend and backend development.
 </h1>
 
 <p align="center">
