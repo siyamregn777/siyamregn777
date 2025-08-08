@@ -67,7 +67,7 @@ pie showData
 | **Frontend Arsenal** | **Backend Armory** | **Database Fortress** | **DevOps & Tools** |
 |----------------------|--------------------|-----------------------|--------------------|
 | ![Frontend](https://skillicons.dev/icons?i=javascript,react,vue,typescript,tailwind,nextjs,redux&theme=dark) | ![Backend](https://skillicons.dev/icons?i=javascript,nodejs,nestjs,python,django,express,flask&theme=dark) | ![Database](https://skillicons.dev/icons?i=mongodb,postgresql,firebase&theme=dark) | ![DevOps](https://skillicons.dev/icons?i=docker,aws,git,github,githubactions&theme=dark) |
-| JavaScript, React, Vue | JavaScript, Node.js | MongoDB, PostgreSQL | Docker, AWS |
+| JavaScript, React, Vue | Next.js , Node.js | MongoDB, PostgreSQL | Docker, AWS |
 | TypeScript, Next.js | NestJS, Python | Firebase | Git, GitHub Actions |
 | Tailwind, Redux | Django, Express/Flask |  |  |
 
