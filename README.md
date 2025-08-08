@@ -118,11 +118,11 @@ const debugLikeABoss = (problem) => {
 ```
 <div align="center">
   
-| Debugging Gamer | Clean Code Addict | Learning Enthusiast |
+| Clean Code Addict | Learning Enthusiast |
 |---------------------|-----------------------|-------------------------|
-| <img src="https://media.giphy.com/media/l0HU7JI1nzJC7mXKU/giphy.gif" width="200"> | <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"> | <img src="https://media.giphy.com/media/l0HU20BZ6LbSEITza/giphy.gif" width="200"> |
-| Every bug is a level to conquer | Beautiful code is my caffeine | Currently mastering NextJS |
-| High score: Many bugs fixed | Refactoring is my therapy | Always exploring new tech |
+|  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"> | <img src="https://media.giphy.com/media/l0HU20BZ6LbSEITza/giphy.gif" width="200"> |
+| Beautiful code is my caffeine | Currently mastering NextJS |
+|  Refactoring is my therapy | Always exploring new tech |
 
 </div>
 
@@ -136,11 +136,6 @@ const debugLikeABoss = (problem) => {
 </div>
 
 ---
-## 🌌 3D Code Galaxy
-
-![Snake animation](https://raw.githubusercontent.com/siyamregn777/siyamregn777/output/github-contribution-grid-snake.svg)
-## 🚀 Let's Create Magic Together
-
 
 ## 🌐 **Connect With Me**
 
@@ -177,9 +172,3 @@ const debugLikeABoss = (problem) => {
 </a>
 </div>
 
-<div align="center">
-  
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsiyamregn777&label=VISITORS&labelColor=%230d1117&countColor=%232962ff&style=for-the-badge)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fsiyamregn777)
-
-</div>
-```
