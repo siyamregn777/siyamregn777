@@ -20,6 +20,26 @@
 
 ---
 
+<h1 align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&color=22F7A3&center=true&vCenter=true&width=500&height=80&lines=%F0%9F%9A%80+SIYAMREGN+YESHIDAGNA;FULL-STACK+DEV+%7C+TECH+ARTISAN" alt="Animated Typing Header" />
+</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C3F7&center=true&vCenter=true&width=600&lines=I+transform+ideas+into+high-performance+apps;Specializing+in+scalable+web+solutions;Clean+code+fanatic+%7C+Debugging+ninja;Let's+build+something+amazing+together" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=siyamregn777&label=PROFILE+VISITS&color=2962FF&style=for-the-badge" alt="Profile Views" /> 
+  <img src="https://img.shields.io/badge/Daily_Coding_Streak-1000+-brightgreen?style=for-the-badge" alt="Coding Streak">
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+
 ## 🌟 **Tech Superpowers**
 
 <div align="center">
