@@ -212,13 +212,13 @@ const debugLikeABoss = (problem) => {
 
 💡 Fun Facts
     
-    🕹️ I treat debugging like a game
+🕹️ I treat debugging like a game
     
-    ⚙️ I love clean code more than coffee
+⚙️ I love clean code more than coffee
     
-    🌱 I never stop learning. My current obsession: NestJS best practices
+🌱 I never stop learning. My current obsession: NestJS best practices
     
-    🧩 I once optimized a UI so well, my mentor asked: “How did you do that?”
+🧩 I once optimized a UI so well, my mentor asked: “How did you do that?”
 <div align="center">
   <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
