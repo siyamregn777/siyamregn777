@@ -24,7 +24,7 @@
   
 | **Next.js Mastery** | **Debugging Wizardry** | **Performance Sorcery** |
 |---------------------|------------------------|-------------------------|
-| ![Next.js GIF](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif) | ![Debug GIF](https://media.giphy.com/media/l0HU7JI1nzJC7mXKU/giphy.gif) | ![Speed GIF](https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif) |
+| ![Next.js GIF](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif) | ![Debug GIF](https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif) | ![Speed GIF](https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif) |
 | SSR/SSG/ISR Expert | Squashing bugs like a pro | Optimizing for 100/100 scores |
 | App Router Pro | Problem-solving ninja | Lighthouse optimization |
 | Edge Runtime | Algorithm master | Bundle size reduction |
@@ -39,7 +39,7 @@
   
 | **Code Crafting** | **Problem Solving** | **Performance Magic** |
 |-------------------|---------------------|-----------------------|
-| <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="150"> | <img src="https://media.giphy.com/media/l3vRfNA1t0j2Z5H6M/giphy.gif" width="150"> | <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="150"> |
+| <img src="" width="150"> | <img src="https://media.giphy.com/media/l3vRfNA1t0j2Z5H6M/giphy.gif" width="150"> | <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="150"> |
 | Architecting elegant solutions | Debugging complex systems | Optimizing for speed |
 | Writing maintainable code | Creative problem solving | Scalable architectures |
 | Clean code principles | Algorithmic thinking | Performance tuning |
