@@ -172,19 +172,14 @@ const debugLikeABoss = (problem) => {
   </a>
 </div>
 
-## 🤪 Fun Facts About Me
+💡 Fun Facts
+🕹️ I treat debugging like a game
 
-<div align="center">
+⚙️ I love clean code more than coffee
 
-| **Coding Quirks** | **Tech Trivia** | **Secret Powers** |
-|-------------------|-----------------|-------------------|
-| <img src="https://media.giphy.com/media/LnU9yZksvQfpe/giphy.gif" width="150"> | <img src="https://media.giphy.com/media/3o7TKUM3IgJBX2as9O/giphy.gif" width="150"> | <img src="https://media.giphy.com/media/l0HU7Hk6Jkz5YpzRm/giphy.gif" width="150"> |
-| I organize code like my Spotify playlists - by vibe | Can recite React docs in my sleep | Debugging via psychic connection |
-| My IDE theme changes with my mood | Have strong opinions about semicolons | Can estimate bundle size by squinting |
-| Refactor when stressed (it's therapeutic) | Named my laptop "The Compiler" | Know when the coffee's done by compile sounds |
+🌱 I never stop learning. My current obsession: NestJS best practices
 
-</div>
-
+🧩 I once optimized a UI so well, my mentor asked: “How did you do that?”
 <div align="center">
   
 ```javascript
