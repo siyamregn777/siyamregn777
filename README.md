@@ -4,7 +4,7 @@
 
 <p align="center">
   I’m a <strong>Full-Stack Developer</strong> who loves building robust, user-friendly web applications that solve real-world problems.  
-  With a bachelor’s degree in <span style="color:red; font-weight:bold;">Computer Engineering</span>, I have a solid foundation in both frontend and backend development.
+  With a bachelor’s degree in <span style="color:red">Computer Engineering</span>, I have a solid foundation in both frontend and backend development.
 </p>
 
 
