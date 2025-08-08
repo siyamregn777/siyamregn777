@@ -132,8 +132,6 @@ const debugLikeABoss = (problem) => {
 ## 🌌 **3D Code Galaxy**
 
 ![Snake animation](https://raw.githubusercontent.com/siyamregn777/siyamregn777/output/github-contribution-grid-snake.svg)
-
-
 ## 🚀 **Let's Create Magic Together**
 
 <div align="center">
