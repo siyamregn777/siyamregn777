@@ -1,25 +1,3 @@
-
-<h1 align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&color=22F7A3&center=true&vCenter=true&width=500&height=80&lines=%F0%9F%9A%80+SIYAMREGN+YESHIDAGNA;FULL-STACK+DEV+%7C+TECH+ARTISAN;NEXT.JS+SPECIALIST+%7C+SOLUTION+ARCHITECT" alt="Animated Typing Header" />
-</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C3F7&center=true&vCenter=true&width=600&lines=I+transform+ideas+into+high-performance+apps;Specializing+in+Next.js+and+scalable+solutions;Clean+code+fanatic+%7C+Debugging+ninja;Let's+build+something+amazing+together" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=siyamregn777&label=PROFILE+VISITS&color=2962FF&style=for-the-badge" alt="Profile Views" /> 
-  <img src="https://img.shields.io/badge/Daily_Coding_Streak-1000+-brightgreen?style=for-the-badge" alt="Coding Streak">
-</p>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-</div>
-
----
-
 <h1 align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&color=22F7A3&center=true&vCenter=true&width=500&height=80&lines=%F0%9F%9A%80+SIYAMREGN+YESHIDAGNA;FULL-STACK+DEV+%7C+TECH+ARTISAN" alt="Animated Typing Header" />
 </h1>
@@ -54,6 +32,19 @@
 </div>
 
 ---
+
+## 🦸 **Tech Superpowers**
+
+<div align="center">
+  
+| **Code Crafting** | **Problem Solving** | **Performance Magic** |
+|-------------------|---------------------|-----------------------|
+| <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="150"> | <img src="https://media.giphy.com/media/l3vRfNA1t0j2Z5H6M/giphy.gif" width="150"> | <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="150"> |
+| Architecting elegant solutions | Debugging complex systems | Optimizing for speed |
+| Writing maintainable code | Creative problem solving | Scalable architectures |
+| Clean code principles | Algorithmic thinking | Performance tuning |
+
+</div>
 
 ## ⚡ **Tech Stack Galaxy**
 
