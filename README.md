@@ -79,7 +79,9 @@ pie showData
 
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## 📊 **GitHub War Room**
 
@@ -94,7 +96,9 @@ pie showData
 
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## 🎮 **Debugging Arena**
 
@@ -127,6 +131,9 @@ const debugLikeABoss = (problem) => {
 
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## 🎨 **Code Canvas**
 
@@ -136,7 +143,9 @@ const debugLikeABoss = (problem) => {
 
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## 🌐 **Connect With Me**
 
@@ -164,6 +173,9 @@ const debugLikeABoss = (problem) => {
 
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## 🎵 Coding Soundtrack
 
@@ -174,6 +186,9 @@ const debugLikeABoss = (problem) => {
   </a>
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 💡 Fun Facts
     
