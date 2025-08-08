@@ -103,7 +103,6 @@ const debugLikeABoss = (problem) => {
 }
 ```
 
----
 
 ## 🧬 **Developer DNA**
 
@@ -117,7 +116,6 @@ const debugLikeABoss = (problem) => {
 
 </div>
 
----
 
 ## 🏆 **Golden Trophy Case**
 
@@ -127,7 +125,7 @@ const debugLikeABoss = (problem) => {
 
 </div>
 
----
+
 
 ## 🌌 **3D Code Galaxy**
 
@@ -142,15 +140,13 @@ const debugLikeABoss = (problem) => {
 
 </div>
 
----
 
 ## 🎵 **Coding Soundtrack**
 
 <div align="center">
   
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31iowxfkkvbtczrtilhdxj64rzzy)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31iowxfkkvbtczrtilhdxj64rzzy){:target="_blank"}
 </div>
-```
 
 ### 🛠 **Setup Instructions:**
 
