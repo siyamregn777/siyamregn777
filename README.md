@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=siyamregn777&label=PROFILE+VISITS&color=2962FF&style=for-the-badge" alt="Profile Views" /> 
-  <img src="https://img.shields.io/badge/Daily_Coding_Streak-1000+-brightgreen?style=for-the-badge" alt="Coding Streak">
+  <img src="https://img.shields.io/badge/Daily_Coding_Streak-50+-brightgreen?style=for-the-badge" alt="Coding Streak">
 </p>
 
 <div align="center">
