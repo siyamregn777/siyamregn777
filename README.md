@@ -33,18 +33,6 @@
 
 ---
 
-## 🦸 **Tech Superpowers**
-
-<div align="center">
-  
-| **Code Crafting** | **Problem Solving** | **Performance Magic** |
-|-------------------|---------------------|-----------------------|
-| <img src="" width="150"> | <img src="https://media.giphy.com/media/l3vRfNA1t0j2Z5H6M/giphy.gif" width="150"> | <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="150"> |
-| Architecting elegant solutions | Debugging complex systems | Optimizing for speed |
-| Writing maintainable code | Creative problem solving | Scalable architectures |
-| Clean code principles | Algorithmic thinking | Performance tuning |
-
-</div>
 
 ## ⚡ **Tech Stack Galaxy**
 
@@ -80,6 +68,33 @@ pie showData
 ### **DevOps Universe**
 <div>
   <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,vercel,supabase,firebase&theme=dark&perline=6">
+</div>
+
+</div>
+
+---
+## ⚔️ **Tech Weaponry**
+
+<div align="center">
+  
+### **Frontend Arsenal**
+<div>
+  <img src="https://skillicons.dev/icons?i=react,vue,typescript,tailwind,nextjs,redux,graphql&theme=dark&perline=7">
+</div>
+
+### **Backend Armory**
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,django,express,flask,graphql&theme=dark&perline=7">
+</div>
+
+### **Database Fortress**
+<div>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase,prisma&theme=dark&perline=6">
+</div>
+
+### **DevOps & Tools**
+<div>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,git,github,githubactions&theme=dark&perline=7">
 </div>
 
 </div>
