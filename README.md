@@ -62,31 +62,16 @@ pie showData
 
 ## ⚔️ **Tech Weaponry**
 
-<div align="center" style="display: flex; justify-content: space-evenly; flex-wrap: wrap; gap: 2rem; margin: 1.5rem 0; flex-direction: row;">
-
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 0.5rem;">
-    <h4>Frontend</h4>
-    <div style="display: flex; gap: 0.5rem;">
-      <img src="https://skillicons.dev/icons?i=react,vue,typescript,tailwind,nextjs,redux&theme=dark">
-    </div>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 0.5rem;">
-    <h4>Backend</h4>
-    <div style="display: flex; gap: 0.5rem;">
-      <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,django,express,flask&theme=dark">
-    </div>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 0.5rem;">
-    <h4>Database</h4>
-    <div style="display: flex; gap: 0.5rem;">
-      <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase&theme=dark">
-    </div>
-  </div>
+<div align="center">
+  
+| **Frontend Arsenal** | **Backend Armory** | **Database Fortress** | **DevOps & Tools** |
+|----------------------|--------------------|-----------------------|--------------------|
+| ![Frontend](https://skillicons.dev/icons?i=react,vue,typescript,tailwind,nextjs,redux&theme=dark) | ![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,python,django,express,flask&theme=dark) | ![Database](https://skillicons.dev/icons?i=mongodb,postgresql,firebase&theme=dark) | ![DevOps](https://skillicons.dev/icons?i=docker,aws,git,github,githubactions&theme=dark) |
+| React, Vue, TypeScript | Node.js, NestJS | MongoDB, PostgreSQL | Docker, AWS |
+| Next.js, Tailwind | Python, Django | Firebase | Git, GitHub Actions |
+| Redux State Mgmt | Express, Flask |  |  |
 
 </div>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
