@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="https://siyamregnyeshidagna-mvxy.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/🚀_View_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  <a href="https://siyamregnyeshidagna-mvxy.vercel.app/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/🚀_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 </p>
 
