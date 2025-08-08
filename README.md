@@ -41,10 +41,10 @@
 ```mermaid
 pie showData
     title My Tech Universe
-    "Next.js" : 45
+    "Next.js" : 40
     "React Ecosystem" : 30
     "Backend" : 15
-    "DevOps" : 10
+    "DevOps" : 15
 ```
   
 </div>
