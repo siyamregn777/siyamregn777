@@ -67,12 +67,12 @@ pie showData
 
 ### **Database Fortress**
 <div>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase&theme=dark&perline=6">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase&theme=dark&perline=6">
 </div>
 
 ### **DevOps & Tools**
 <div>
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,github,githubactions&theme=dark&perline=7">
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,githubactions&theme=dark&perline=7">
 </div>
 
 </div>
