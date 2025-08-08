@@ -9,11 +9,7 @@
   With a bachelor's degree in <a href="#" target="_blank"><img src="https://img.shields.io/badge/Computer_Engineering-FF0000?style=flat&logoColor=white" alt="Computer Engineering"></a>, I have a solid foundation in both frontend and backend development.
 </p>
 
-<p align="center">
-  <a href="https://siyamregnyeshidagna-mvxy.vercel.app/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/🚀_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
-</p>
+
 
 <p align="center">
   <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
