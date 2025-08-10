@@ -161,7 +161,7 @@ const debugLikeABoss = (problem) => {
 
 ## 🌐 **Connect With Me**
 
-<<div align="center">
+<div align="center">
 
 <!-- Email (mailto links don't need target="_blank") -->
 [![Email](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yeshidagnasiyamregn@gmail.com)
