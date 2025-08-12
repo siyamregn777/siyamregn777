@@ -9,8 +9,6 @@
   With a bachelor's degree in <a href="#" target="_blank"><img src="https://img.shields.io/badge/Computer_Engineering-FF0000?style=flat&logoColor=white" alt="Computer Engineering"></a>, I have a solid foundation in both frontend and backend development.
 </p>
 
-
-
 <p align="center">
   <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C3F7&center=true&vCenter=true&width=600&lines=I+transform+ideas+into+high-performance+apps;Specializing+in+scalable+web+solutions;Clean+code+fanatic+%7C+Debugging+ninja;Let's+build+something+amazing+together" alt="Typing SVG">
