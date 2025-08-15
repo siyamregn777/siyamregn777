@@ -45,14 +45,15 @@
 
 <div align="center">
   
-```
+```mermaid
 pie showData
     title My Tech Universe
     "Next.js" : 35
     "React Ecosystem" : 25
     "Backend" : 15
     "DevOps" : 15
-    "Testing (Jest)" : 10: 15
+    "Testing (Jest)" : 10
+
 ```
 
 <div align="center">
