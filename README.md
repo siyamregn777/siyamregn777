@@ -45,7 +45,7 @@
 
 <div align="center">
   
-```mermaid
+```
 pie showData
     title My Tech Universe
     "Next.js" : 35
