@@ -100,7 +100,7 @@ pie showData
 ## 🏆 🏆 Golden Trophy Case
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=siyamregn777&theme=onedark&row=1&column=7&margin-w=10&margin-h=15&no-frame=true&no-bg=true&title=Commits,Issues,Repositories,Stars,Reviews,PRs,Followers)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=siyamregn777&theme=onedark&row=1&column=8&margin-w=10&margin-h=15&no-frame=true&no-bg=true&title=Commits,Issues,Repositories,Stars,Reviews,PRs,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 <div align="center">
