@@ -98,12 +98,9 @@ pie showData
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 ## 🏆 🏆 Golden Trophy Case
-
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=siyamregn777&theme=onedark&row=1&column=6&margin-w=10&margin-h=15&no-frame=true&no-bg=true&title=Commits,PullRequests,Issues,Repositories,Stars,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=siyamregn777&theme=onedark&row=1&column=6&margin-w=10&margin-h=15&no-frame=true&no-bg=true&title=Commits,Contributions,Issues,Repositories,Stars,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=siyamregn777&theme=onedark&row=1&column=7&margin-w=10&margin-h=15&no-frame=true&no-bg=true&title=Commits,Issues,Repositories,Stars,Reviews,PRs,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 <div align="center">
