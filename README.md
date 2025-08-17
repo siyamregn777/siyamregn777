@@ -82,15 +82,6 @@ pie showData
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=siyamregn777&theme=holi-theme&hide_border=true&background=0D1117&stroke=00D1FF&ring=00FFD1&fire=FF00D1&currStreakLabel=00FFD1" />
 </div>
 
-<!-- PR highlight -->
-<div style="margin-top: 10px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=siyamregn777&theme=onestar&no-bg=true&no-frame=true&title=PullRequest,Issues,Stars,Followers,Commits" />
-</div>
-
-<!-- Optional: PRs welcome badge -->
-<div style="margin-top: 8px;">
-  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome" />
-</div>
 
 </div>
 
