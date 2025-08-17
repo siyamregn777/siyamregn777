@@ -102,6 +102,7 @@ pie showData
 <div align="center">
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=siyamregn777&theme=onedark&row=1&column=6&margin-w=10&margin-h=15&no-frame=true&no-bg=true&title=Commits,PullRequests,Issues,Repositories,Stars,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+ <img src="https://github-profile-trophy.vercel.app/?username=siyamregn777&theme=onestar&no-bg=true&no-frame=true&title=PullRequest,Issues,Stars,Followers,Commits" />
 
 </div>
 <div align="center">
