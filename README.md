@@ -66,8 +66,8 @@ pie showData
 |----------------------|--------------------|-----------------------|--------------------|
 | ![Frontend](https://skillicons.dev/icons?i=javascript,react,typescript,tailwind,nextjs,redux&theme=dark) | ![Backend](https://skillicons.dev/icons?i=javascript,nodejs,nestjs,python,django,express,flask&theme=dark) | ![Database](https://skillicons.dev/icons?i=mongodb,postgresql,firebase&theme=dark) | ![DevOps](https://skillicons.dev/icons?i=docker,aws,git,github,githubactions,jest&theme=dark) |
 | JavaScript, React | Next.js , Node.js | MongoDB, PostgreSQL | Docker, AWS, Jest |
-| TypeScript, Next.js | NestJS, Python | Firebase | Git, GitHub Actions |
-| Tailwind, Redux | Django, Express |  | Unit & Integration Testing |
+| TypeScript, Next.js | Python | Firebase,supabase | Git, Version Control |
+| Tailwind, Redux | Django |  | Unit & Integration Testing |
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
