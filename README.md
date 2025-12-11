@@ -64,8 +64,8 @@ pie showData
 
 | **Frontend Arsenal** | **Backend Armory** | **Database Fortress** | **DevOps & Tools** |
 |----------------------|--------------------|-----------------------|--------------------|
-| ![Frontend](https://skillicons.dev/icons?i=javascript,react,typescript,tailwind,Angular,nextjs,redux&theme=dark) | ![Backend](https://skillicons.dev/icons?i=javascript,nodejs,nestjs,python,django,php,express,flask&theme=dark) | ![Database](https://skillicons.dev/icons?i=mongodb,postgresql,firebase&theme=dark) | ![DevOps](https://skillicons.dev/icons?i=docker,aws,git,github,githubactions,jest&theme=dark) |
-| JavaScript, React | Next.js , Node.js | MongoDB, PostgreSQL | Docker, AWS, Jest |
+| ![Frontend](https://skillicons.dev/icons?i=javascript,react,typescript,tailwind,angular,nextjs,redux&theme=dark) | ![Backend](https://skillicons.dev/icons?i=javascript,nodejs,nestjs,python,django,php,express,flask&theme=dark) | ![Database](https://skillicons.dev/icons?i=mongodb,postgresql,firebase&theme=dark) | ![DevOps](https://skillicons.dev/icons?i=docker,aws,git,github,githubactions,jest&theme=dark) |
+| JavaScript, React, Angular | Next.js , Node.js | MongoDB, PostgreSQL | Docker, AWS, Jest |
 | TypeScript, Next.js | Python , PHP | Firebase | Git, Version Control |
 | Tailwind, Redux | Django | supabase | Unit & Integration Testing |
 
