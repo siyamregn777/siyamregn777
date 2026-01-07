@@ -85,13 +85,6 @@ pie showData
 
 </div>
 
-## 🏆 **Golden Trophy Case**
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=siyamregn777&theme=onestar&no-bg=true&no-frame=true&title=PullRequest,Commits,Issues,Stars,Repositories,Reviews,Followers" />
-
-</div>
 
 <!-- <div>
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=siyamregn777&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D1FF&line=00FFD1&point=FF00D1&random=1" width="90%"/>
