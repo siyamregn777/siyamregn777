@@ -1,4 +1,4 @@
-# 🚀 **JUNIOR FULL-STACK DEV | TECH ARTISAN  SIYAMREGN YESHIDAGNA - **
+# 🚀 **SIYAMREGN YESHIDAGNA - FULL-STACK DEV | TECH ARTISAN**
 
 <h1 align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&color=22F7A3&center=true&vCenter=true&width=500&height=80&lines=%F0%9F%9A%80+SIYAMREGN+YESHIDAGNA;FULL-STACK+DEV+%7C+TECH+ARTISAN" alt="Animated Typing Header" />
@@ -62,29 +62,30 @@
 ## 📊 **GitHub War Room**
 
 <div align="center">
+
+<!-- GitHub Stats with Better Visibility -->
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
   
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  
-  <!-- GitHub Stats -->
+  <!-- GitHub Stats Card -->
   <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siyamregn777&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D1FF&icon_color=00FFD1&text_color=FFFFFF&include_all_commits=true&count_private=true" />
+    <img height="195em" src="https://github-readme-stats.vercel.app/api?username=siyamregn777&show_icons=true&theme=radical&hide_border=false&bg_color=000000&title_color=00D1FF&icon_color=00FFD1&text_color=FFFFFF&include_all_commits=true&count_private=true&border_radius=10&border_color=00D1FF" alt="GitHub Stats" />
   </div>
   
-  <!-- Top Languages -->
+  <!-- Top Languages Card -->
   <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siyamregn777&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D1FF&text_color=FFFFFF&card_width=320" />
+    <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siyamregn777&layout=compact&langs_count=10&theme=radical&hide_border=false&bg_color=000000&title_color=00D1FF&text_color=FFFFFF&card_width=350&border_radius=10&border_color=00FFD1" alt="Top Languages" />
   </div>
 
 </div>
 
 <!-- Streak Stats -->
-<div>
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=siyamregn777&theme=holi-theme&hide_border=true&background=0D1117&stroke=00D1FF&ring=00FFD1&fire=FF00D1&currStreakLabel=00FFD1" />
+<div style="margin-bottom: 20px;">
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=siyamregn777&theme=radical&hide_border=false&background=000000&stroke=00D1FF&ring=00FFD1&fire=FF00D1&currStreakLabel=00FFD1&border_radius=10&border=2" alt="GitHub Streak" />
 </div>
 
 <!-- Activity Graph -->
 <div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siyamregn777&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D1FF&line=00FFD1&point=FF00D1&area=true&area_color=00FFD120" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siyamregn777&theme=react-dark&hide_border=false&bg_color=000000&color=00D1FF&line=00FFD1&point=FF00D1&area=true&area_color=00FFD120&border_radius=10&border_color=00D1FF" width="80%" alt="Activity Graph"/>
 </div>
 
 </div>
@@ -98,22 +99,22 @@
 <div align="center">
 
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=siyamregn777&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=siyamregn777&theme=radical&no-frame=false&no-bg=false&margin-w=10&margin-h=10&row=2&column=4&border_radius=10" alt="GitHub Trophies" />
 
 <!-- Trophy Stats -->
 <div style="display: flex; justify-content: center; gap: 15px; margin-top: 20px; flex-wrap: wrap;">
   
   <!-- Repository Count -->
-  <img src="https://img.shields.io/badge/Repositories-20+-blue?style=for-the-badge&logo=github" alt="Repositories" />
+  <img src="https://img.shields.io/badge/Repositories-20+-00D1FF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
   
   <!-- Stars Earned -->
-  <img src="https://img.shields.io/badge/Stars-50+-yellow?style=for-the-badge&logo=github" alt="Stars" />
+  <img src="https://img.shields.io/badge/Stars-50+-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Stars" />
   
   <!-- Contributions -->
-  <img src="https://img.shields.io/badge/Contributions-500+-green?style=for-the-badge&logo=github" alt="Contributions" />
+  <img src="https://img.shields.io/badge/Contributions-500+-00FF00?style=for-the-badge&logo=github&logoColor=black" alt="Contributions" />
   
   <!-- Followers -->
-  <img src="https://img.shields.io/github/followers/siyamregn777?style=for-the-badge&logo=github&label=Followers&color=purple" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/siyamregn777?style=for-the-badge&logo=github&label=Followers&color=9D00FF&logoColor=white" alt="Followers" />
 
 </div>
 
@@ -202,9 +203,36 @@ const celebrateWithConfetti = () => {
 <!-- Snake Game Contribution Graph -->
 ![Snake Game](https://raw.githubusercontent.com/siyamregn777/siyamregn777/output/github-contribution-grid-snake.svg)
 
-<!-- GitHub Contribution Graph -->
-<div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siyamregn777&theme=github&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=3FB950&area=true&area_color=3FB95020&custom_title=Contribution%20Graph" width="90%"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 📈 **GitHub Metrics**
+
+<div align="center">
+
+<!-- GitHub Metrics - Fixed Visibility -->
+<div style="margin: 20px 0;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siyamregn777&theme=radical" width="90%" alt="Profile Details" />
+</div>
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siyamregn777&theme=radical" width="45%" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siyamregn777&theme=radical" width="45%" alt="Most Commit Language" />
+</div>
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=siyamregn777&theme=radical" width="45%" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=siyamregn777&theme=radical&utcOffset=3" width="45%" alt="Productive Time" />
+</div>
+
+<!-- Repository Pin -->
+<div style="margin: 20px 0;">
+  <a href="https://github.com/siyamregn777/siyamregn777">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=siyamregn777&repo=siyamregn777&theme=radical&show_owner=true&border_radius=10" alt="Readme Card" />
+  </a>
 </div>
 
 </div>
@@ -232,31 +260,47 @@ const celebrateWithConfetti = () => {
 
 ## 🌐 **Connect With Me**
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 
 <!-- Email -->
-[![Email](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yeshidagnasiyamregn@gmail.com)
+<a href="mailto:yeshidagnasiyamregn@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 
 <!-- LinkedIn -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siyamregn)
+<a href="https://linkedin.com/in/siyamregn" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 <!-- GitHub -->
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siyamregn777)
+<a href="https://github.com/siyamregn777" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
 <!-- Instagram -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/siyamregn3779)
+<a href="https://instagram.com/siyamregn3779" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
 
 <!-- Telegram -->
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/siyamregn1)
+<a href="https://t.me/siyamregn1" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+</a>
 
 <!-- WhatsApp -->
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+251942553335)
+<a href="https://wa.me/+251942553335" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
 
 <!-- Discord -->
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/siyamregn)
+<a href="https://discordapp.com/users/siyamregn" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>
 
 <!-- Portfolio -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://siyamregn.dev)
+<a href="https://siyamregn.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+</a>
 
 </div>
 
@@ -268,8 +312,13 @@ const celebrateWithConfetti = () => {
 
 <div align="center">
   
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31iowxfkkvbtczrtilhdxj64rzzy)
-[![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com)
+<a href="https://open.spotify.com/user/31iowxfkkvbtczrtilhdxj64rzzy" target="_blank">
+  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+</a>
+
+<a href="https://music.youtube.com" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="YouTube Music">
+</a>
 
 </div>
 
@@ -287,22 +336,6 @@ const celebrateWithConfetti = () => {
 | ⚙️ Optimized a website to load in < 1s | 🧩 Create reusable components | 🌱 Currently learning: Rust & Web3 |
 | 🏆 Won coding competitions | ✨ Animation enthusiast | 📚 Reading tech blogs daily |
 | 🔍 Can find bugs in the dark | 🎯 Pixel-perfect implementation | 💡 Open source contributor |
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## 📈 **GitHub Metrics**
-
-<div align="center">
-
-<!-- Profile Details Card -->
-<img src="https://metrics.lecoq.io/siyamregn777?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Africa%2FAddis_Ababa" width="90%"/>
-
-<!-- Repository Pin -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siyamregn777&repo=siyamregn777&theme=radical)](https://github.com/siyamregn777/siyamregn777)
 
 </div>
 
@@ -338,13 +371,19 @@ long_term:
 
 ## ⭐ **Support My Work**
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 
-If you like what I do, consider starring my repositories or following me on GitHub!
+<a href="https://github.com/siyamregn777" target="_blank">
+  <img src="https://img.shields.io/github/stars/siyamregn777?style=for-the-badge&logo=github&label=Stars&color=yellow&logoColor=black" alt="GitHub Stars">
+</a>
 
-[![GitHub Stars](https://img.shields.io/github/stars/siyamregn777?style=for-the-badge&logo=github&label=Stars&color=yellow)](https://github.com/siyamregn777)
-[![GitHub Follow](https://img.shields.io/github/followers/siyamregn777?style=for-the-badge&logo=github&label=Follow&color=blue)](https://github.com/siyamregn777)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/siyamregn)
+<a href="https://github.com/siyamregn777" target="_blank">
+  <img src="https://img.shields.io/github/followers/siyamregn777?style=for-the-badge&logo=github&label=Follow&color=blue&logoColor=white" alt="GitHub Follow">
+</a>
+
+<a href="https://buymeacoffee.com/siyamregn" target="_blank">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+</a>
 
 </div>
 
@@ -366,8 +405,8 @@ If you like what I do, consider starring my repositories or following me on GitH
 
 <div align="center">
   
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsiyamregn777&label=TOTAL%20VISITORS&labelColor=%23000000&countColor=%2300ff00)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fsiyamregn777)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsiyamregn777&label=TOTAL%20VISITORS&labelColor=%23000000&countColor=%2300ff00&style=for-the-badge)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fsiyamregn777)
 
-**Last Updated:** $(date)
+**Last Updated:** November 2024
 
 </div>
