@@ -107,6 +107,18 @@ pie showData
 
 </div>
 
+## 🏆 Achievement Showcase
+<div align="center">
+
+| Badge | Description |
+|-------|-------------|
+| ![Commits](https://img.shields.io/badge/💎_500+_Commits-Gold?style=for-the-badge) | Consistent contributor |
+| ![Repos](https://img.shields.io/badge/🚀_20+_Repositories-Silver?style=for-the-badge) | Active project maintainer |
+| ![Stars](https://img.shields.io/badge/⭐_50+_Stars-Bronze?style=for-the-badge) | Starred repositories |
+| ![PRs](https://img.shields.io/badge/🤝_25+_PRs-Emerald?style=for-the-badge) | Pull Requests contributor |
+| ![Issues](https://img.shields.io/badge/🐛_30+_Issues-Ruby?style=for-the-badge) | Issue reporter & solver |
+
+</div>
 
 ## 🎮 **Debugging Arena**
 
