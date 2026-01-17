@@ -99,15 +99,14 @@ pie showData
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+
 ## 🏆 Golden Trophy Case
 <div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=siyamregn777&theme=radical&no-bg=true&margin-w=15&margin-h=15&column=7" />
+
+<img src="https://github-trophies.vercel.app/?username=siyamregn777&theme=onedark&no-frame=true&no-bg=true&rank=SECRET,S,SS,SSS,AAA&column=6" />
 
 </div>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+
 
 ## 🎮 **Debugging Arena**
 
