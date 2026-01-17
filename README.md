@@ -78,21 +78,6 @@ pie showData
 
 <div align="center">
 
-<!-- Stats Row -->
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-
-<!-- GitHub Stats Card (Alt Version 1) -->
-<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=siyamregn777&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-
-<!-- Streak Stats (Alt Version) -->
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=siyamregn777&theme=radical&hide_border=true&background=0D1117&stroke=00D1FF&ring=00FFD1" alt="GitHub Streak" />
-
-
-<!-- Top Languages -->
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siyamregn777&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-
-</div>
-
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=siyamregn777&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D1FF&line=00FFD1&point=FF00D1&area=true&custom_title=My%20Contribution%20Graph" width="100%" alt="Activity Graph" />
 
