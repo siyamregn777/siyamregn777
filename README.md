@@ -206,25 +206,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=siyamregn777&theme=github_dark&utcOffset=3" width="45%" alt="Productive Time" />
 </div>
 
-<!-- Repository Contributions -->
-<div style="margin: 20px 0; text-align: center;">
-  <h3>📦 Repository Contributions</h3>
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    
-    <!-- Main Repository -->
-    <a href="https://github.com/siyamregn777/siyamregn777">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=siyamregn777&repo=siyamregn777&theme=radical&show_owner=true" alt="Profile README" />
-    </a>
-    
-    <!-- Add more pinned repos as needed -->
-    <!-- <a href="https://github.com/siyamregn777/[your-repo]">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=siyamregn777&repo=[your-repo]&theme=radical&show_owner=true" alt="Repo Name" />
-    </a> -->
-
-  </div>
-</div>
-
-</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
