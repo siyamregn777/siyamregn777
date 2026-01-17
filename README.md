@@ -97,7 +97,7 @@ pie title My Tech Universe
 ## 🏆 Golden Trophy Case
 <div align="center">
 
-<img src="https://github-trophies.vercel.app/?username=siyamregn777&theme=onedark&no-frame=true&no-bg=true&row=1&exclude=LongTimeUser" />
+<img src="https://github-trophies.vercel.app/?username=siyamregn777&theme=onedark&no-frame=true&no-bg=true&row=1&margin-w=10&exclude=LongTimeUser" />
 
 </div>
 
