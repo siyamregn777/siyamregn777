@@ -78,19 +78,17 @@ pie showData
 
 <div align="center">
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: center;">
 
 <!-- GitHub Stats -->
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=siyamregn777&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D1FF&icon_color=00FFD1&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=siyamregn777&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D1FF&icon_color=00FFD1&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
 <!-- GitHub Streak Stats -->
-<img height="200" src="https://streak-stats.demolab.com?user=siyamregn777&theme=holi-theme&hide_border=true&background=0D1117&stroke=00D1FF&ring=00FFD1&fire=FF00D1&currStreakLabel=00FFD1" alt="GitHub Streak" />
-
-</div>
+<img height="195" src="https://streak-stats.demolab.com?user=siyamregn777&theme=holi-theme&hide_border=true&background=0D1117&stroke=00D1FF&ring=00FFD1&fire=FF00D1&currStreakLabel=00FFD1" alt="GitHub Streak" />
 
 <!-- Top Languages -->
-<div align="center" style="margin-top: 20px;">
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siyamregn777&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D1FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siyamregn777&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D1FF&text_color=FFFFFF&langs_count=8&exclude_repo=github-readme-stats" alt="Top Languages" />
+
 </div>
 
 </div>
