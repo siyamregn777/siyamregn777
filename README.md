@@ -63,30 +63,25 @@
 
 <div align="center">
 
-<!-- ALTERNATIVE GITHUB STATS - USING DIFFERENT SERVICE -->
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
-  
-  <!-- GitHub Stats Card -->
-  <div>
-    <img height="195em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=siyamregn777&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  </div>
-  
-  <!-- Top Languages Card -->
-  <div>
-    <img height="195em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=siyamregn777&layout=compact&theme=dark&hide_border=true&langs_count=10" alt="Top Languages" />
-  </div>
+<!-- GitHub Stats - Using the standard service with center alignment -->
+<p align="center">
+  <a href="https://github.com/siyamregn777">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siyamregn777&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siyamregn777&layout=compact&langs_count=10&theme=radical&hide_border=true" />
+  </a>
+</p>
 
-</div>
+<!-- Streak Stats - Using HTML with proper center alignment -->
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=siyamregn777&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  </a>
+</p>
 
-<!-- Streak Stats -->
-<div style="margin-bottom: 20px;">
-  <img width="80%" src="https://streak-stats.demolab.com?user=siyamregn777&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</div>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=siyamregn777" alt="GitHub Streak" /></a>
 <!-- Activity Graph -->
-<div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siyamregn777&theme=github-dark&hide_border=true&bg_color=000000&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" width="80%" alt="Activity Graph"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siyamregn777&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=3FB950&area=true&area_color=3FB95020" width="90%"/>
+</p>
 
 </div>
 
@@ -99,7 +94,9 @@
 <div align="center">
 
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=siyamregn777&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" alt="GitHub Trophies" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=siyamregn777&theme=radical&no-bg=true&no-frame=true&column=7" />
+</p>
 
 <!-- Trophy Stats -->
 <div style="display: flex; justify-content: center; gap: 15px; margin-top: 20px; flex-wrap: wrap;">
@@ -147,7 +144,9 @@
 <div align="center">
 
 <!-- Snake Game Contribution Graph -->
-![Snake Game](https://raw.githubusercontent.com/siyamregn777/siyamregn777/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/siyamregn777/siyamregn777/output/github-contribution-grid-snake.svg" />
+</p>
 
 </div>
 
@@ -193,9 +192,9 @@
 </div>
 
 <!-- Detailed GitHub Stats -->
-<div style="margin: 20px 0;">
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siyamregn777&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true" width="90%" alt="Profile Details" />
-</div>
+</p>
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siyamregn777&theme=github_dark" width="45%" alt="Repos per Language" />
@@ -214,12 +213,12 @@
     
     <!-- Main Repository -->
     <a href="https://github.com/siyamregn777/siyamregn777">
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=siyamregn777&repo=siyamregn777&theme=dark&show_owner=true" alt="Profile README" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=siyamregn777&repo=siyamregn777&theme=radical&show_owner=true" alt="Profile README" />
     </a>
     
     <!-- Add more pinned repos as needed -->
     <!-- <a href="https://github.com/siyamregn777/[your-repo]">
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=siyamregn777&repo=[your-repo]&theme=dark&show_owner=true" alt="Repo Name" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=siyamregn777&repo=[your-repo]&theme=radical&show_owner=true" alt="Repo Name" />
     </a> -->
 
   </div>
