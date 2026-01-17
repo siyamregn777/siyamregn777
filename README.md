@@ -66,19 +66,19 @@
 <!-- ALTERNATIVE GITHUB STATS - USING DIFFERENT SERVICE -->
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
   
-  <!-- GitHub Stats Card - Using simpler version -->
+  <!-- GitHub Stats Card -->
   <div>
     <img height="195em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=siyamregn777&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   </div>
   
-  <!-- Top Languages Card - Using simpler version -->
+  <!-- Top Languages Card -->
   <div>
     <img height="195em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=siyamregn777&layout=compact&theme=dark&hide_border=true&langs_count=10" alt="Top Languages" />
   </div>
 
 </div>
 
-<!-- Streak Stats - Using alternative service -->
+<!-- Streak Stats -->
 <div style="margin-bottom: 20px;">
   <img width="80%" src="https://streak-stats.demolab.com?user=siyamregn777&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
@@ -98,7 +98,7 @@
 
 <div align="center">
 
-<!-- GitHub Trophies - Using alternative style -->
+<!-- GitHub Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=siyamregn777&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" alt="GitHub Trophies" />
 
 <!-- Trophy Stats -->
@@ -119,60 +119,6 @@
 </div>
 
 </div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## 🎮 **Debugging Arena**
-
-```javascript
-const debugLikeABoss = (problem) => {
-  console.log("🔍 Debugging session started...");
-  const solutions = [];
-  let attempt = 1;
-  
-  while (!problem.isSolved()) {
-    console.log(`🔄 Attempt ${attempt}: Analyzing problem...`);
-    const solution = analyze(problem);
-    solutions.push(solution);
-    
-    console.log("⚙️ Applying solution...");
-    problem.apply(solution);
-    
-    if (problem.isSolved()) {
-      console.log("✅ Bug squashed successfully!");
-      celebrateWithConfetti();
-      return {
-        status: "SUCCESS",
-        attempts: attempt,
-        solutions: solutions,
-        message: "🏆 High score achieved! Debugging complete."
-      };
-    }
-    
-    attempt++;
-  }
-  
-  return {
-    status: "IN_PROGRESS",
-    message: "Debugging in progress... Never give up!"
-  };
-};
-
-// Debugging utilities
-const analyze = (problem) => {
-  return {
-    timestamp: new Date(),
-    approach: "Systematic debugging",
-    tools: ["Console logs", "Debugger", "Breakpoints", "Git bisect"]
-  };
-};
-
-const celebrateWithConfetti = () => {
-  console.log("🎉🎊✨ CELEBRATION TIME! Bug eliminated! ✨🎊🎉");
-};
-```
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -213,9 +159,42 @@ const celebrateWithConfetti = () => {
 
 <div align="center">
 
-<!-- GitHub Metrics - Using alternative cards -->
+<!-- Complete GitHub Statistics -->
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
+  
+  <!-- Total Commits -->
+  <img src="https://img.shields.io/badge/Total%20Commits-500%2B-brightgreen?style=for-the-badge&logo=git&logoColor=white" alt="Total Commits" />
+  
+  <!-- Total Stars -->
+  <img src="https://img.shields.io/badge/Total%20Stars-50%2B-yellow?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
+  
+  <!-- Pull Requests -->
+  <img src="https://img.shields.io/badge/Pull%20Requests-20%2B-blue?style=for-the-badge&logo=github&logoColor=white" alt="Pull Requests" />
+  
+  <!-- Issues -->
+  <img src="https://img.shields.io/badge/Issues-15%2B-orange?style=for-the-badge&logo=github&logoColor=white" alt="Issues" />
+
+</div>
+
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
+  
+  <!-- Reviews -->
+  <img src="https://img.shields.io/badge/Code%20Reviews-30%2B-purple?style=for-the-badge&logo=github&logoColor=white" alt="Code Reviews" />
+  
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/siyamregn777?style=for-the-badge&logo=github&label=Followers&color=9D00FF&logoColor=white" alt="Followers" />
+  
+  <!-- Following -->
+  <img src="https://img.shields.io/badge/Following-100%2B-lightgrey?style=for-the-badge&logo=github&logoColor=black" alt="Following" />
+  
+  <!-- Repositories -->
+  <img src="https://img.shields.io/badge/Public%20Repos-20%2B-green?style=for-the-badge&logo=github&logoColor=white" alt="Public Repos" />
+
+</div>
+
+<!-- Detailed GitHub Stats -->
 <div style="margin: 20px 0;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siyamregn777&theme=github_dark" width="90%" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siyamregn777&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true" width="90%" alt="Profile Details" />
 </div>
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
@@ -228,11 +207,22 @@ const celebrateWithConfetti = () => {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=siyamregn777&theme=github_dark&utcOffset=3" width="45%" alt="Productive Time" />
 </div>
 
-<!-- Repository Pin -->
-<div style="margin: 20px 0;">
-  <a href="https://github.com/siyamregn777/siyamregn777">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=siyamregn777&repo=siyamregn777&theme=dark&show_owner=true" alt="Readme Card" />
-  </a>
+<!-- Repository Contributions -->
+<div style="margin: 20px 0; text-align: center;">
+  <h3>📦 Repository Contributions</h3>
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    
+    <!-- Main Repository -->
+    <a href="https://github.com/siyamregn777/siyamregn777">
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=siyamregn777&repo=siyamregn777&theme=dark&show_owner=true" alt="Profile README" />
+    </a>
+    
+    <!-- Add more pinned repos as needed -->
+    <!-- <a href="https://github.com/siyamregn777/[your-repo]">
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=siyamregn777&repo=[your-repo]&theme=dark&show_owner=true" alt="Repo Name" />
+    </a> -->
+
+  </div>
 </div>
 
 </div>
@@ -410,4 +400,3 @@ long_term:
 **Last Updated:** November 2024
 
 </div>
-
