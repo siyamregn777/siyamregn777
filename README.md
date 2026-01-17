@@ -124,55 +124,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## 🎮 **Debugging Arena**
 
-```javascript
-const debugLikeABoss = (problem) => {
-  console.log("🔍 Debugging session started...");
-  const solutions = [];
-  let attempt = 1;
-  
-  while (!problem.isSolved()) {
-    console.log(`🔄 Attempt ${attempt}: Analyzing problem...`);
-    const solution = analyze(problem);
-    solutions.push(solution);
-    
-    console.log("⚙️ Applying solution...");
-    problem.apply(solution);
-    
-    if (problem.isSolved()) {
-      console.log("✅ Bug squashed successfully!");
-      celebrateWithConfetti();
-      return {
-        status: "SUCCESS",
-        attempts: attempt,
-        solutions: solutions,
-        message: "🏆 High score achieved! Debugging complete."
-      };
-    }
-    
-    attempt++;
-  }
-  
-  return {
-    status: "IN_PROGRESS",
-    message: "Debugging in progress... Never give up!"
-  };
-};
-
-// Debugging utilities
-const analyze = (problem) => {
-  return {
-    timestamp: new Date(),
-    approach: "Systematic debugging",
-    tools: ["Console logs", "Debugger", "Breakpoints", "Git bisect"]
-  };
-};
-
-const celebrateWithConfetti = () => {
-  console.log("🎉🎊✨ CELEBRATION TIME! Bug eliminated! ✨🎊🎉");
-};
-```
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
