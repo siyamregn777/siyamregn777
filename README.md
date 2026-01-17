@@ -45,17 +45,22 @@
 ## ⚡ **Tech Stack Galaxy**
 
 <div align="center">
-  
-```mermaid
-pie showData
-    title My Tech Universe
-    "Next.js" : 35
-    "React Ecosystem" : 25
-    "Backend" : 15
-    "DevOps" : 15
-    "Testing (Jest)" : 10
 
-```
+### 🥧 My Tech Universe
+
+🔵 **Next.js:** 35% ⭐⭐⭐⭐⭐  
+🟢 **React Ecosystem:** 25% ⭐⭐⭐⭐⭐  
+🟡 **Backend:** 15% ⭐⭐⭐⭐  
+🟠 **DevOps:** 15% ⭐⭐⭐⭐  
+🔴 **Testing (Jest):** 10% ⭐⭐⭐  
+
+<br>
+
+**Visual Breakdown:**  
+🟦🟦🟦🟦🟦🟩🟩🟩🟩🟨🟨🟨🟧🟧🟧🟥🟥  
+*Next.js  React  Backend  DevOps  Testing*
+
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
