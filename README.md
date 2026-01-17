@@ -79,13 +79,17 @@ pie showData
 <div align="center">
 
 <!-- Stats Row -->
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-<!-- GitHub Stats -->
-<img height="195" src="https://github-readme-stats.vercel.app/api?username=siyamregn777&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D1FF&icon_color=00FFD1&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<!-- GitHub Stats Card (Alt Version 1) -->
+<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=siyamregn777&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
-<!-- GitHub Streak Stats -->
-<img height="195" src="https://streak-stats.demolab.com?user=siyamregn777&theme=holi-theme&hide_border=true&background=0D1117&stroke=00D1FF&ring=00FFD1&fire=FF00D1&currStreakLabel=00FFD1" alt="GitHub Streak" />
+<!-- Streak Stats (Alt Version) -->
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=siyamregn777&theme=radical&hide_border=true&background=0D1117&stroke=00D1FF&ring=00FFD1" alt="GitHub Streak" />
+
+
+<!-- Top Languages -->
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siyamregn777&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
 
