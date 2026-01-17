@@ -42,23 +42,21 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
 ## ⚡ **Tech Stack Galaxy**
 
 <div align="center">
-  
+
 ```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'pie1': '#FF6B6B', 'pie2': '#4ECDC4', 'pie3': '#45B7D1', 'pie4': '#96CEB4', 'pie5': '#FFEAA7', 'pie6': '#DDA0DD', 'pieStrokeWidth': '2px'}, 'pie': {'width': '250px', 'height': '250px'}} }%%
 pie title My Tech Universe
     "Next.js" : 35
     "React Ecosystem" : 25
     "Backend" : 15
     "DevOps" : 15
     "Testing" : 10
-</div>
-```
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
 
 ## ⚔️ **Tech Weaponry**
 
