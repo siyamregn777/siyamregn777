@@ -57,7 +57,7 @@ pie title My Tech Universe
     "Backend" : 15
     "DevOps" : 15
     "Testing" : 10
-
+```
 ## ⚔️ **Tech Weaponry**
 
 | **Frontend Arsenal** | **Backend Armory** | **Database Fortress** | **DevOps & Tools** |
