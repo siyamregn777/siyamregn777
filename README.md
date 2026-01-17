@@ -6,7 +6,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 <p align="center">
-  I'm a <strong>Full-Stack Developer</strong> who loves building robust, user-friendly web applications that solve real-world problems.<br>
+  I'm a <strong>Junior Full-Stack Developer</strong> who loves building robust, user-friendly web applications that solve real-world problems.<br>
   With a Bachelor's degree in <a href="#" target="_blank"><img src="https://img.shields.io/badge/Computer_Engineering-FF0000?style=flat&logoColor=white" alt="Computer Engineering"></a>, I have a solid foundation in both frontend and backend development.
 </p>
 
