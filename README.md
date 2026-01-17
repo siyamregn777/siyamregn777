@@ -82,7 +82,7 @@
 <div style="margin-bottom: 20px;">
   <img width="80%" src="https://streak-stats.demolab.com?user=siyamregn777&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
-[![GitHub Streak](https://streak-stats.demolab.com?user=siyamregn777)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=siyamregn777" alt="GitHub Streak" /></a>
 <!-- Activity Graph -->
 <div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=siyamregn777&theme=github-dark&hide_border=true&bg_color=000000&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" width="80%" alt="Activity Graph"/>
