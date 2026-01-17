@@ -44,8 +44,6 @@
 
 ## ⚡ **Tech Stack Galaxy**
 
-## ⚡ **Tech Stack Galaxy**
-
 <div align="center">
   
 ```mermaid
