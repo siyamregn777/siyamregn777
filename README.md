@@ -63,29 +63,29 @@
 
 <div align="center">
 
-<!-- GitHub Stats with Better Visibility -->
+<!-- ALTERNATIVE GITHUB STATS - USING DIFFERENT SERVICE -->
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
   
-  <!-- GitHub Stats Card -->
+  <!-- GitHub Stats Card - Using simpler version -->
   <div>
-    <img height="195em" src="https://github-readme-stats.vercel.app/api?username=siyamregn777&show_icons=true&theme=radical&hide_border=false&bg_color=000000&title_color=00D1FF&icon_color=00FFD1&text_color=FFFFFF&include_all_commits=true&count_private=true&border_radius=10&border_color=00D1FF" alt="GitHub Stats" />
+    <img height="195em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=siyamregn777&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   </div>
   
-  <!-- Top Languages Card -->
+  <!-- Top Languages Card - Using simpler version -->
   <div>
-    <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siyamregn777&layout=compact&langs_count=10&theme=radical&hide_border=false&bg_color=000000&title_color=00D1FF&text_color=FFFFFF&card_width=350&border_radius=10&border_color=00FFD1" alt="Top Languages" />
+    <img height="195em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=siyamregn777&layout=compact&theme=dark&hide_border=true&langs_count=10" alt="Top Languages" />
   </div>
 
 </div>
 
-<!-- Streak Stats -->
+<!-- Streak Stats - Using alternative service -->
 <div style="margin-bottom: 20px;">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=siyamregn777&theme=radical&hide_border=false&background=000000&stroke=00D1FF&ring=00FFD1&fire=FF00D1&currStreakLabel=00FFD1&border_radius=10&border=2" alt="GitHub Streak" />
+  <img width="80%" src="https://streak-stats.demolab.com?user=siyamregn777&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
 <!-- Activity Graph -->
 <div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siyamregn777&theme=react-dark&hide_border=false&bg_color=000000&color=00D1FF&line=00FFD1&point=FF00D1&area=true&area_color=00FFD120&border_radius=10&border_color=00D1FF" width="80%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siyamregn777&theme=github-dark&hide_border=true&bg_color=000000&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" width="80%" alt="Activity Graph"/>
 </div>
 
 </div>
@@ -98,8 +98,8 @@
 
 <div align="center">
 
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=siyamregn777&theme=radical&no-frame=false&no-bg=false&margin-w=10&margin-h=10&row=2&column=4&border_radius=10" alt="GitHub Trophies" />
+<!-- GitHub Trophies - Using alternative style -->
+<img src="https://github-profile-trophy.vercel.app/?username=siyamregn777&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" alt="GitHub Trophies" />
 
 <!-- Trophy Stats -->
 <div style="display: flex; justify-content: center; gap: 15px; margin-top: 20px; flex-wrap: wrap;">
@@ -124,7 +124,55 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
+## 🎮 **Debugging Arena**
 
+```javascript
+const debugLikeABoss = (problem) => {
+  console.log("🔍 Debugging session started...");
+  const solutions = [];
+  let attempt = 1;
+  
+  while (!problem.isSolved()) {
+    console.log(`🔄 Attempt ${attempt}: Analyzing problem...`);
+    const solution = analyze(problem);
+    solutions.push(solution);
+    
+    console.log("⚙️ Applying solution...");
+    problem.apply(solution);
+    
+    if (problem.isSolved()) {
+      console.log("✅ Bug squashed successfully!");
+      celebrateWithConfetti();
+      return {
+        status: "SUCCESS",
+        attempts: attempt,
+        solutions: solutions,
+        message: "🏆 High score achieved! Debugging complete."
+      };
+    }
+    
+    attempt++;
+  }
+  
+  return {
+    status: "IN_PROGRESS",
+    message: "Debugging in progress... Never give up!"
+  };
+};
+
+// Debugging utilities
+const analyze = (problem) => {
+  return {
+    timestamp: new Date(),
+    approach: "Systematic debugging",
+    tools: ["Console logs", "Debugger", "Breakpoints", "Git bisect"]
+  };
+};
+
+const celebrateWithConfetti = () => {
+  console.log("🎉🎊✨ CELEBRATION TIME! Bug eliminated! ✨🎊🎉");
+};
+```
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -165,25 +213,25 @@
 
 <div align="center">
 
-<!-- GitHub Metrics - Fixed Visibility -->
+<!-- GitHub Metrics - Using alternative cards -->
 <div style="margin: 20px 0;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siyamregn777&theme=radical" width="90%" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siyamregn777&theme=github_dark" width="90%" alt="Profile Details" />
 </div>
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siyamregn777&theme=radical" width="45%" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siyamregn777&theme=radical" width="45%" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siyamregn777&theme=github_dark" width="45%" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siyamregn777&theme=github_dark" width="45%" alt="Most Commit Language" />
 </div>
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=siyamregn777&theme=radical" width="45%" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=siyamregn777&theme=radical&utcOffset=3" width="45%" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=siyamregn777&theme=github_dark" width="45%" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=siyamregn777&theme=github_dark&utcOffset=3" width="45%" alt="Productive Time" />
 </div>
 
 <!-- Repository Pin -->
 <div style="margin: 20px 0;">
   <a href="https://github.com/siyamregn777/siyamregn777">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=siyamregn777&repo=siyamregn777&theme=radical&show_owner=true&border_radius=10" alt="Readme Card" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=siyamregn777&repo=siyamregn777&theme=dark&show_owner=true" alt="Readme Card" />
   </a>
 </div>
 
@@ -362,3 +410,4 @@ long_term:
 **Last Updated:** November 2024
 
 </div>
+
