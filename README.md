@@ -80,13 +80,7 @@ pie title My Tech Universe
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=siyamregn777&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D1FF&line=00FFD1&point=FF00D1&area=true&custom_title=My%20Contribution%20Graph" width="100%" alt="Activity Graph" />
 
-</div>>
-
-
-<!-- <div>
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=siyamregn777&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D1FF&line=00FFD1&point=FF00D1&random=1" width="90%"/>
-</div> -->
-
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
