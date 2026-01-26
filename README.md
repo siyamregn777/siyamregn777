@@ -42,9 +42,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+
 
 ## ⚡ **Tech Stack Galaxy**
 
@@ -58,6 +56,10 @@ pie title My Tech Universe
     "DevOps" : 15
     "Testing" : 10
 ```
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
 ## ⚔️ **Tech Weaponry**
 
 | **Frontend Arsenal** | **Backend Armory** | **Database Fortress** | **DevOps & Tools** |
