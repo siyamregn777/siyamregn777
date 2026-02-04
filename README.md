@@ -67,7 +67,7 @@ pie title My Tech Universe
 | ![Frontend](https://skillicons.dev/icons?i=javascript,react,typescript,tailwind,vue,angular,nextjs,redux&theme=dark) | ![Backend](https://skillicons.dev/icons?i=javascript,nodejs,nestjs,java,python,django,php,express,flask&theme=dark) | ![Database](https://skillicons.dev/icons?i=mongodb,postgresql,firebase&theme=dark) | ![DevOps](https://skillicons.dev/icons?i=docker,aws,git,github,githubactions,jest&theme=dark) |
 | JavaScript, React, Angular | Next.js , Node.js, java | MongoDB, PostgreSQL | Docker, AWS, Jest |
 | TypeScript, Next.js | Python , PHP | Firebase | Git, Version Control |
-| Tailwind, Redux | Django | supabase | Unit & Integration Testing |
+| Tailwind, Redux | Django, nest.js | supabase | Unit & Integration Testing |
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
